@@ -8,7 +8,7 @@ const {AddToCart,
 } = require('../controllers/cart.controller');
 const {AddToCartValidator
     ,deleteCartValidator,
-    updateCartValidator} = require('../shared/validation/Cart.validator');
+    updateCartValidator} = require('../shared/validation/cart.validator');
 
 router.route('/').get(getCarts).post(AddToCartValidator,AddToCart);
 router.route('/:id')

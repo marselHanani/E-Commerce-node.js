@@ -9,7 +9,7 @@ const {
     deleteReviewValidator,
     getReviewValidator,
     updateReviewValidator,
-  } = require("../shared/validation/Review.validator");
+  } = require("../shared/validation/review.validator");
   
   const express = require("express");
   const router = express.Router();

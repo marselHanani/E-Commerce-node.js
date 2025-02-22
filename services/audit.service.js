@@ -13,7 +13,7 @@ auditLogger.on(auditEvents, async (auditData)=>{
     }
 });
 
-exports.prepareAudit = ({ action, auditBy, status = 200, errors = [], data = {} }) => {
+exports.prepareAudit = ({ action, auditBy, status = 200, errorMessages = [], data = {} }) => {
     if (!action || !auditBy) {
         console.error("Audit log requires both 'action' and 'auditBy'");
         return;
@@ -23,7 +23,7 @@ exports.prepareAudit = ({ action, auditBy, status = 200, errors = [], data = {} 
         action,
         auditBy,
         status: errors.length > 0 ? 500 : status,
-        errors,
+        errorMessages,
         auditOn: new Date(),
         data
     };

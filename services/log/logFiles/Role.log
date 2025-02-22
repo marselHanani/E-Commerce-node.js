@@ -1,0 +1,9 @@
+[2025-02-08 18:18:19] | info |: Role - Role document created successfully  | data: {"data":{"name":"Admin","permissions":["67a7803d76ce95766f60a7ee"],"_id":"67a783cb6a710e3db60ad715","__v":0}}
+[2025-02-08 18:18:45] | info |: Role - Role documents fetched successfully  | data: {"results":1,"paginationResult":{"currentPage":1,"limit":10,"totalPages":1}}
+[2025-02-08 18:19:20] | info |: Role - Role document fetched successfully  | data: {"data":{"_id":"67a783cb6a710e3db60ad715","name":"Admin","permissions":["67a7803d76ce95766f60a7ee"],"__v":0}}
+[2025-02-08 18:19:32] | info |: Role - Role document fetched successfully  | data: {"data":{"_id":"67a783cb6a710e3db60ad715","name":"Admin","permissions":["67a7803d76ce95766f60a7ee"],"__v":0}}
+[2025-02-08 18:20:14] | info |: Role - Role document updated successfully  | data: {"data":{"_id":"67a783cb6a710e3db60ad715","name":"admin","permissions":["67a7803d76ce95766f60a7ee"],"__v":0}}
+[2025-02-08 18:20:22] | info |: Role - Role document updated successfully  | data: {"data":{"_id":"67a783cb6a710e3db60ad715","name":"Admin","permissions":["67a7803d76ce95766f60a7ee"],"__v":0}}
+[2025-02-08 19:56:43] | info |: Role - Role document created successfully  | data: {"data":{"name":"User","permissions":["67a7803d76ce95766f60a7ee"],"_id":"67a79adb2444ca132a82900e","__v":0}}
+[2025-02-12 11:14:41] | info |: Role - Role documents fetched successfully  | data: {"results":2,"paginationResult":{"currentPage":1,"limit":10,"totalPages":1}}
+[2025-02-16 06:38:57] | info |: Role - Role documents fetched successfully  | data: {"results":2,"paginationResult":{"currentPage":1,"limit":10,"totalPages":1}}

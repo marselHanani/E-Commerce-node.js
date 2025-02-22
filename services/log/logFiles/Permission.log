@@ -1,0 +1,6 @@
+[2025-02-08 18:03:09] | info |: Permission - Permission document created successfully  | data: {"data":{"name":"Create User","_id":"67a7803d76ce95766f60a7ee","__v":0}}
+[2025-02-08 18:04:10] | info |: Permission - Permission documents fetched successfully  | data: {"results":1,"paginationResult":{"currentPage":1,"limit":10,"totalPages":1}}
+[2025-02-08 18:04:48] | info |: Permission - Permission document fetched successfully  | data: {"data":{"_id":"67a7803d76ce95766f60a7ee","name":"Create User","__v":0}}
+[2025-02-08 18:05:55] | info |: Permission - Permission document updated successfully  | data: {"data":{"_id":"67a7803d76ce95766f60a7ee","name":"delete users","__v":0}}
+[2025-02-08 18:12:15] | info |: Permission - Permission documents fetched successfully  | data: {"results":1,"paginationResult":{"currentPage":1,"limit":10,"totalPages":1}}
+[2025-02-08 18:25:36] | info |: Permission - Permission documents fetched successfully  | data: {"results":1,"paginationResult":{"currentPage":1,"limit":10,"totalPages":1}}

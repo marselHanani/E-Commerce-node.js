@@ -1,0 +1,2 @@
+[2025-02-21 10:09:01] | info |: SubCategory - SubCategory documents fetched successfully  | data: {"results":1,"paginationResult":{"currentPage":1,"limit":10,"totalPages":1}}
+[2025-02-21 10:11:36] | info |: SubCategory - SubCategory document deleted successfully  | data: {"data":{"_id":"67a758094be46a2416fc6181","name":"subcat2","slug":"subcat2","category":"67a6f7c9eee9a694fad58f6f","createdAt":"2025-02-08T13:11:37.776Z","updatedAt":"2025-02-08T13:11:37.776Z","__v":0}}

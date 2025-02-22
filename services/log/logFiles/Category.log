@@ -1,0 +1,4 @@
+[2025-02-19 07:22:34] | info |: Category - Category all documents deleted successfully  | data: {"deletedCount":2}
+[2025-02-21 10:01:22] | info |: Category - Category documents fetched successfully  | data: {"results":0,"paginationResult":{"currentPage":1,"limit":10,"totalPages":0}}
+[2025-02-21 10:05:53] | info |: Category - Category document created successfully  | data: {"data":{"name":"seconde Category","slug":"seconde-category","_id":"67b833e120175e22d6f9fba5","createdAt":"2025-02-21T08:05:53.650Z","updatedAt":"2025-02-21T08:05:53.650Z","__v":0}}
+[2025-02-21 10:21:05] | info |: Category - Category documents fetched successfully  | data: {"results":1,"paginationResult":{"currentPage":1,"limit":10,"totalPages":1}}

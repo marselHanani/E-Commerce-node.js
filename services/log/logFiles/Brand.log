@@ -1,0 +1,2 @@
+[2025-02-21 10:16:02] | info |: Brand - Brand documents fetched successfully  | data: {"results":1,"paginationResult":{"currentPage":1,"limit":10,"totalPages":1}}
+[2025-02-21 10:16:10] | info |: Brand - Brand document deleted successfully  | data: {"data":{"_id":"67a6453f91a1cef6c865d847","name":"brands","createdAt":"2025-02-07T17:39:12.003Z","updatedAt":"2025-02-07T17:41:02.421Z","slug":"brands","__v":0}}

@@ -22,7 +22,7 @@ exports.prepareAudit = ({ action, auditBy, status = 200, errorMessages = [], dat
     const auditData = {
         action,
         auditBy,
-        status: errors.length > 0 ? 500 : status,
+        status: errorMessages.length > 0 ? 500 : status,
         errorMessages,
         auditOn: new Date(),
         data

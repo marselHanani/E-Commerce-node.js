@@ -11,13 +11,13 @@ The **E-Commerce API** is a backend system built with **Node.js** and **Express*
 - 📡 **API Documentation with Postman**
 
 ## 📌 Requirements
-- Node.js >= 14
+- Node.js = v22.11.0
 - MongoDB
 - Postman (for API testing)
 
 ## 📥 Installation
 ```bash
-git clone https://github.com/marselHanani/E-Commerce-node.js
+git clone https://github.com/marselHanani/E-Commerce-node.js.git
 cd ecommerce-api
 npm install
 

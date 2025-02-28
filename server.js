@@ -15,7 +15,8 @@ const orderRoute = require('./routes/order.route');
 const cartRoute = require('./routes/cart.route');
 const reviewRoute = require('./routes/review.route');
 const ErrorHandler = require('./middlewares/ErrorHandler');
-
+const cors = require('cors');
+app.use(cors()); // to can use endpoints by any localhost
 
 const DbConnection = require('./config/database')
 
